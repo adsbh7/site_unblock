@@ -3,7 +3,7 @@ import os
 import threading, time
 
 host = '127.0.0.1'
-port = 65420
+port = 8080
 webport = 80
 client = []
 thd = []
