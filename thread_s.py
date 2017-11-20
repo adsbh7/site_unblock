@@ -1,3 +1,5 @@
+# command : python thread_s.py
+
 import socket
 import os
 import threading, time
